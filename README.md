@@ -1,2 +1,2 @@
-# WordPress-Plugin-core-Concepts
+# WordPress-Plugin-Core-Concepts
 All about Professional WordPress Plugin Core Concepts
